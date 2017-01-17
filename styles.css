@@ -13,3 +13,19 @@ body {
   font-family: Helvetica,Arial;
   text-align: center;
 }
+
+#banner {
+  color: #fefefe;
+  font-size: 50px;
+  text-align: center;
+  background-color: #EB6C52;
+  padding: 0.5em 0em;
+  width: 80%;
+  margin: 10% auto 0%;
+  font-family: Helvetica;
+  text-transform: uppercase;
+}
+
+span {
+  margin-left:175px;
+}
