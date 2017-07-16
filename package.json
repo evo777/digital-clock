@@ -1,7 +1,7 @@
 {
   "name": "digital-clock",
   "version": "1.0.0",
-  "description": "Clock that tells the current time",
+  "description": "An application that tells the time.",
   "engines": {
     "node": "6.11.1"
   },
